@@ -34,4 +34,5 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.7.0")
     implementation("com.google.android.material:material:1.12.0")
     implementation("com.github.pedroSG94:RTSP-Server:1.3.3")
+    implementation("com.github.pedroSG94.RootEncoder:library:2.5.5")
 }
